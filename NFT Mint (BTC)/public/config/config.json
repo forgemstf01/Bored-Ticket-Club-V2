@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x07d62be67fe41d56f671cb3ebe7a1ffaf32dd96a",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x692a0fc39e343375092a13d71510e70832567001f95ffcdba79ea6f48636148d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bored Ticket Club",
+  "SYMBOL": "BTC",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/testnetequi",
+  "SHOW_BACKGROUND": true
+}
